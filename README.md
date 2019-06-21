@@ -1,1 +1,3 @@
-# M3SOC_GPIO_sim
+# M3SOC_GPIO_UART_sim
+arm m3外挂gpio模块和uart模块的测试仿真工程
+与工程M3SOC_GPIO_UART相比，减少程序运行的延迟，以加快仿真进程
